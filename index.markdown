@@ -10,4 +10,4 @@ Alexander Petrovsky
 
 Product designer
 
-[LinkedIn](https://www.linkedin.com/in/sashapetr/) | [Facebook](www.facebook.com/petrovsky.sasha)
+[LinkedIn](https://www.linkedin.com/in/sashapetr/)    |     [Facebook](www.facebook.com/petrovsky.sasha)
