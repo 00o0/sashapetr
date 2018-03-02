@@ -8,6 +8,6 @@ date: 2018-03-02 16:53:00 Z
 \
 Alexander Petrovsky
 
-\*Product designer \*
+Product designer
 
 [LinkedIn](https://www.linkedin.com/in/sashapetr/) | [Facebook](www.facebook.com/petrovsky.sasha)
