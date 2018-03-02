@@ -1,7 +1,6 @@
 ---
 title: index
 date: 2018-03-02 16:53:00 Z
-permalink: Alexander Petrovsky
 ---
 
 # ![123.png](/uploads/123.png)
