@@ -1,8 +1,13 @@
 ---
 title: index
 date: 2018-03-02 16:53:00 Z
+permalink: Alexander Petrovsky
 ---
 
-# test
+# ![123.png](/uploads/123.png)\
+\
+Alexander Petrovsky
 
-![change_active@3x.png](/uploads/change_active@3x.png)
+*Product designer *
+
+[LinkedIn](https://www.linkedin.com/in/sashapetr/) | [Facebook](www.facebook.com/petrovsky.sasha)
